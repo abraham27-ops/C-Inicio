@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Documents\C#\Mi_primer_programa\obj\Debug\Mi_primer_programa.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\C#\Mi_primer_programa\obj\Debug\Mi_primer_programa.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\C#\Mi_primer_programa\bin\Debug\Mi_primer_programa.exe.config
+C:\Users\Estudiante\Documents\C#\Mi_primer_programa\bin\Debug\Mi_primer_programa.exe
+C:\Users\Estudiante\Documents\C#\Mi_primer_programa\bin\Debug\Mi_primer_programa.pdb
+C:\Users\Estudiante\Documents\C#\Mi_primer_programa\obj\Debug\Mi_primer_programa.exe
+C:\Users\Estudiante\Documents\C#\Mi_primer_programa\obj\Debug\Mi_primer_programa.pdb

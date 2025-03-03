@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Documents\C#\Area de un rectangulo\bin\Debug\Area de un rectangulo.exe.config
+C:\Users\Estudiante\Documents\C#\Area de un rectangulo\bin\Debug\Area de un rectangulo.exe
+C:\Users\Estudiante\Documents\C#\Area de un rectangulo\bin\Debug\Area de un rectangulo.pdb
+C:\Users\Estudiante\Documents\C#\Area de un rectangulo\obj\Debug\Area de un rectangulo.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\C#\Area de un rectangulo\obj\Debug\Area de un rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\C#\Area de un rectangulo\obj\Debug\Area de un rectangulo.exe
+C:\Users\Estudiante\Documents\C#\Area de un rectangulo\obj\Debug\Area de un rectangulo.pdb
