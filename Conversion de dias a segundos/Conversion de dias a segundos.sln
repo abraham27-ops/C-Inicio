@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion de dias a segundos", "Conversion de dias a segundos.csproj", "{03FD81B0-0FD5-4260-A333-321413EBF8C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03FD81B0-0FD5-4260-A333-321413EBF8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FD81B0-0FD5-4260-A333-321413EBF8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FD81B0-0FD5-4260-A333-321413EBF8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FD81B0-0FD5-4260-A333-321413EBF8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A14352A-5E24-44EB-8CBE-59F9E2DE3FCA}
+	EndGlobalSection
+EndGlobal

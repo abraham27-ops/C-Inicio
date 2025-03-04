@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\C-Inicio\Area de un trapecio\bin\Debug\Area de un trapecio.exe.config
+C:\Users\Estudiante\Desktop\C-Inicio\Area de un trapecio\bin\Debug\Area de un trapecio.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Area de un trapecio\bin\Debug\Area de un trapecio.pdb
+C:\Users\Estudiante\Desktop\C-Inicio\Area de un trapecio\obj\Debug\Area de un trapecio.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Area de un trapecio\obj\Debug\Area de un trapecio.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Area de un trapecio\obj\Debug\Area de un trapecio.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Area de un trapecio\obj\Debug\Area de un trapecio.pdb

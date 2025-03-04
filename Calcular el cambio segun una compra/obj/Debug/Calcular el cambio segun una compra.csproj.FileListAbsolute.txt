@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el cambio segun una compra\obj\Debug\Calcular el cambio segun una compra.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el cambio segun una compra\obj\Debug\Calcular el cambio segun una compra.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el cambio segun una compra\bin\Debug\Calcular el cambio segun una compra.exe.config
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el cambio segun una compra\bin\Debug\Calcular el cambio segun una compra.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el cambio segun una compra\bin\Debug\Calcular el cambio segun una compra.pdb
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el cambio segun una compra\obj\Debug\Calcular el cambio segun una compra.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el cambio segun una compra\obj\Debug\Calcular el cambio segun una compra.pdb

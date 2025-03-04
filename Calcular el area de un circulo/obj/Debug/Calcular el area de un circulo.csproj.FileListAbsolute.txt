@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el area de un circulo\bin\Debug\Calcular el area de un circulo.exe.config
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el area de un circulo\bin\Debug\Calcular el area de un circulo.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el area de un circulo\bin\Debug\Calcular el area de un circulo.pdb
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el area de un circulo\obj\Debug\Calcular el area de un circulo.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el area de un circulo\obj\Debug\Calcular el area de un circulo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el area de un circulo\obj\Debug\Calcular el area de un circulo.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Calcular el area de un circulo\obj\Debug\Calcular el area de un circulo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\C-Inicio\Conversion de dias a segundos\obj\Debug\Conversion de dias a segundos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Conversion de dias a segundos\obj\Debug\Conversion de dias a segundos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Conversion de dias a segundos\bin\Debug\Conversion de dias a segundos.exe.config
+C:\Users\Estudiante\Desktop\C-Inicio\Conversion de dias a segundos\bin\Debug\Conversion de dias a segundos.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Conversion de dias a segundos\bin\Debug\Conversion de dias a segundos.pdb
+C:\Users\Estudiante\Desktop\C-Inicio\Conversion de dias a segundos\obj\Debug\Conversion de dias a segundos.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Conversion de dias a segundos\obj\Debug\Conversion de dias a segundos.pdb

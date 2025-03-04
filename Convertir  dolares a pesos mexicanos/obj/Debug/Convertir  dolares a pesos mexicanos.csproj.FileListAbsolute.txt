@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\C-Inicio\Convertir  dolares a pesos mexicanos\bin\Debug\Convertir  dolares a pesos mexicanos.exe.config
+C:\Users\Estudiante\Desktop\C-Inicio\Convertir  dolares a pesos mexicanos\bin\Debug\Convertir  dolares a pesos mexicanos.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Convertir  dolares a pesos mexicanos\bin\Debug\Convertir  dolares a pesos mexicanos.pdb
+C:\Users\Estudiante\Desktop\C-Inicio\Convertir  dolares a pesos mexicanos\obj\Debug\Convertir  dolares a pesos mexicanos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Convertir  dolares a pesos mexicanos\obj\Debug\Convertir  dolares a pesos mexicanos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Convertir  dolares a pesos mexicanos\obj\Debug\Convertir  dolares a pesos mexicanos.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Convertir  dolares a pesos mexicanos\obj\Debug\Convertir  dolares a pesos mexicanos.pdb

@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\C-Inicio\Mi_primer_programa\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.exe.config
+C:\Users\Estudiante\Desktop\C-Inicio\Mi_primer_programa\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Mi_primer_programa\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.pdb
+C:\Users\Estudiante\Desktop\C-Inicio\Mi_primer_programa\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Mi_primer_programa\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\C-Inicio\Mi_primer_programa\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.exe
+C:\Users\Estudiante\Desktop\C-Inicio\Mi_primer_programa\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.pdb
